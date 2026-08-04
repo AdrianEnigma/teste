@@ -6,9 +6,9 @@ window.FAKEZIN_LINKS = {
   twitch: "#",
   instagram: "https://www.instagram.com/fakezintech?igsh=NjBzcjB0ZGNpdGp4&utm_source=qr",
 
-  produtos: "#",
-  livePix: "#",
-  discord: "#",
+  produtos: "https://beacons.ai/fakezintech",
+  livePix: "https://beacons.ai/fakezintech",
+  discord: "https://discord.gg/t7GHvjTAa9",
   telegram: "#",
   whatsapp: "#",
 };
